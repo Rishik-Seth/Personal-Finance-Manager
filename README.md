@@ -1,6 +1,7 @@
 # Personal Finance Manager
 
 A personal finance manager application that allows users to track their income, expenses, and savings. Users can create custom categories for transactions, set savings goals, and view detailed reports for monthly and yearly expenses, income, and savings.
+Postman Documentation : https://documenter.getpostman.com/view/34158537/2sAYQiCTp1
 
 ## Features
 - **User Authentication:** Users can register and log in.
